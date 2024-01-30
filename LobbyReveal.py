@@ -12,9 +12,9 @@ import warnings
 warnings.filterwarnings('ignore')
 # global variables
 
-api_key = 'RGAPI-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
+api_key = 'RGAPI-738f4975-29fc-4e4d-b8c9-e504ba487974'
 watcher = LolWatcher(api_key)
-my_region = 'euw1'
+my_region = 'oc1'
 
 app_port = None
 auth_token = None
